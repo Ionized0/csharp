@@ -1,0 +1,7 @@
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\bin\Debug\ChanceToDraw.exe.config
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\bin\Debug\ChanceToDraw.exe
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\bin\Debug\ChanceToDraw.pdb
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\obj\Debug\ChanceToDraw.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\obj\Debug\ChanceToDraw.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\obj\Debug\ChanceToDraw.exe
+C:\Users\Jonathan Vukim\source\repos\ChanceToDraw\ChanceToDraw\obj\Debug\ChanceToDraw.pdb
